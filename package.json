@@ -1,0 +1,16 @@
+{
+  "name": "figma-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "style-dictionary init basic",
+    "build": "style-dictionary build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}
