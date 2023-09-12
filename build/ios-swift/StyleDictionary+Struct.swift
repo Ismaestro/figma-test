@@ -4,12 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 11 Sep 2023 20:03:45 GMT
+// Generated on Tue, 12 Sep 2023 23:21:56 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let corePrimaryColor = red
-    internal static let coreXs = 8px
+    internal static let coreLarge = 16px
+    internal static let coreMedium = 14px
+    internal static let corePrimaryColor = green
+    internal static let coreSecondaryColor = blue
+    internal static let coreSmall = 12px
 }
